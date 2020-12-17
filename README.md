@@ -25,7 +25,7 @@ npm install
 
 ### Running the app
 1. Make sure `npm install` is done before running.
-2. Make a copy of `.env.staging` and rename it as `.env`. Fill the respective credentials.
+2. Make a copy of `.env.dev` and rename it as `.env`. Fill the respective credentials.
 	* SLACK_SIGNING_SECRET: Your application's signing secret key that can be found under the **Basic Information** tab in your application dashboard.
 
 	* SLACK_ACCESS_TOKEN: Your application's OAuth Access Token that can be found under the **OAuth & Permissions** tab in your application dashboard. 
