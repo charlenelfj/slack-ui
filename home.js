@@ -27,7 +27,7 @@ const updateHomeView = (step) => {
         type: "section",
         text: {
           type: "mrkdwn",
-          text: '*Welcome!* \nThis is the home page for the slack-ui app. :blush:'
+          text: '*Welcome!* \nThis is the home page for the slack-ui app :blush:'
         }
       }, 
       {
@@ -77,28 +77,6 @@ const updateHomeView = (step) => {
           }
         ]
       }
-      // {
-      //   type: "actions",
-      //   block_id: '123',
-      //   elements: [
-      //     {
-      //       type: "static_select",
-      //       placeholder: {
-      //         type: "plain_text",
-      //         text: "select an item"
-      //       },
-      //       options: [
-      //         {
-      //           text: {
-      //             type: "plain_text",
-      //             text: "hello"
-      //           }
-      //         }
-      //       ]
-      //     }
-      //   ]
-      // }
-      
     ]
   }
 
