@@ -45,6 +45,7 @@ npm install
 ### Enabling Developer Beta Features
 The timepicker used in this repo is a beta feature (as of the date that this readme is created: 17/12/2020). 
 Do enable the beta features by going to the **application dashboard -> beta features**
+![Adding timepicker](screenshots/timepicker.png)
 
 ### Launching your app from slack
 1. Go to your Slack workspace and under the **Apps** section in the sidebar menu, click on **Add apps**. You should see a list of installed app and the name of your app should be visible. 
